@@ -67,4 +67,4 @@ Inspired by various real-time chat applications built using **Socket.io**.
 ## 👨‍💻 Author
 Developed by **Sai Dhanush VR**
 - GitHub: [saidhanush27](https://github.com/saidhanush27)
-- LinkedIn: [Sai Dhanush VR](https://www.linkedin.com/in/saidhanushvr)
+- LinkedIn: [Sai Dhanush VR](https://www.linkedin.com/in/sai-dhanush-vr/)
