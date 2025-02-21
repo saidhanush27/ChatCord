@@ -1,0 +1,130 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #1e1e2f, #3a3a6a);
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.join-container {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+}
+
+.join-header {
+    margin-bottom: 1.5rem;
+}
+
+h1 {
+    font-size: 1.8rem;
+    color: #ffcc70;
+}
+
+.fas.fa-smile {
+    color: #ffcc70;
+}
+
+.form-control {
+    margin-bottom: 1rem;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: 600;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    font-size: 1rem;
+}
+
+input::placeholder {
+    color: #ccc;
+}
+select {
+    width: 100%;
+    max-width: 350px;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    font-size: 1rem;
+}
+
+select option {
+    background: #1e1e2f;
+    color: #fff;
+}
+
+
+
+select option {
+    background: #1e1e2f;
+    color: #fff;
+}
+
+.btn {
+    background: linear-gradient(135deg, #ff7eb3, #ff758c);
+    color: white;
+    font-size: 1rem;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: linear-gradient(135deg, #ff758c, #ff7eb3);
+}
+
+.custom-footer {
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #ccc;
+    width: 100%;
+}
+
+.custom-footer a {
+    color: #ffcc70;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.custom-footer a:hover {
+    text-decoration: underline;
+}
+
