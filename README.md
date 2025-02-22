@@ -13,7 +13,10 @@ A real-time chat application built with **Node.js, Express, and Socket.io** that
 
 ---
 ## PROJECT OUTPUT:
-![images]()
+![images](https://github.com/saidhanush27/ChatCord/blob/090fd42b5471ed598f8e277d2bb5ea84b4f4952c/ChatCord%20Images/1.png)</br> </br>
+![images](https://github.com/saidhanush27/ChatCord/blob/090fd42b5471ed598f8e277d2bb5ea84b4f4952c/ChatCord%20Images/2.png)</br></br>
+![images](https://github.com/saidhanush27/ChatCord/blob/090fd42b5471ed598f8e277d2bb5ea84b4f4952c/ChatCord%20Images/3.png)
+
 
 ## 🛠️ Tech Stack
 - **Backend:** Node.js, Express.js, Socket.io  
