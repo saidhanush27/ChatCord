@@ -12,6 +12,8 @@ A real-time chat application built with **Node.js, Express, and Socket.io** that
 ✔️ **Responsive UI** with a simple front-end  
 
 ---
+## PROJECT OUTPUT:
+![images]()
 
 ## 🛠️ Tech Stack
 - **Backend:** Node.js, Express.js, Socket.io  
